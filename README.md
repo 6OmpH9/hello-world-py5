@@ -1,5 +1,5 @@
-# hello-world, this is my GitHub.
-The purpose of this repository is to track my progress as a creative coder. This repository is where I will keep sketches that I create in py5.
+# hello-world, this is my creative coding repository.
+This repository is where I will keep sketches that I create in py5. The purpose of this repository is to track my progress as a creative coder and gain a broader understanding of GitHub.
 
 The goal is to take inspiration from various tutorials and resources I find and convert them into python code, specifically py5 which is a python version of Processing. 
 
